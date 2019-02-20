@@ -37,4 +37,4 @@ def g(a,b):
 try:
  	 main()
 expept:
- 	 print('invalid'
+ 	 print('invalid')
